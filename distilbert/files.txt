@@ -1,0 +1,4 @@
+These files exists here which are developed after training the model:
+config.json
+tf_model.h5
+tf_model.preproc
